@@ -1,2 +1,2 @@
-# raineanne.gethub.io
+# raineanne.github.io
 My Resume
